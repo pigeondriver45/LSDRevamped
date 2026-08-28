@@ -1,6 +1,7 @@
 # LSD Revamped
 
 A remake of the cult-classic game LSD: Dream Emulator.
+This fork aims to fix the issues with the soundtrack.
 
 ## Prerequisites
 
